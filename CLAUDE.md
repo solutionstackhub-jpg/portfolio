@@ -91,7 +91,7 @@ Navigate to `http://localhost:8000`
 ### Google Maps
 
 - API Key: `AIzaSyCjAk1CI42wcBeAzmwE8knNNj0WTG3-M8U`
-- Default location: Scarborough, Ontario, Canada (43.7950, -79.2661)
+- Default location: Weifang, Shandong, China (36.7069, 119.1619)
 - Initialized via async `initMap()` function called by Google Maps callback
 
 ## Styling Conventions
