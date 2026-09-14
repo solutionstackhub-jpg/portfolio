@@ -1,0 +1,7 @@
+# robots.txt for www.graysonchen.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.graysonchen.com/sitemap.xml

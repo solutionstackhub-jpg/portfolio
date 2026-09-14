@@ -1,0 +1,17 @@
+# 편집 백업
+*.bak
+*.bak*
+*~
+*.orig
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 배포 도구
+.vercel/
+node_modules/
+
+# 에디터
+.vscode/
+.idea/
