@@ -1,7 +1,7 @@
-# robots.txt for maxli.dev
+# robots.txt for maxdev.dev
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://maxli.dev/sitemap.xml
+Sitemap: https://maxdev.dev/sitemap.xml
